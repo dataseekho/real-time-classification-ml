@@ -1,4 +1,4 @@
-## 📊 DS Bootcamp 0.2: Real-Time Weather Pattern Classification with Machine Learning
+## 📊 DS Bootcamp 0.2: Logistic Regression Classification with Machine Learning
 
 Welcome to **Data Seekho Bootcamp 0.2**! In this 3-day event, you’ll learn how to build a real-time **weather pattern classification model** using **Python** and machine learning. Perfect for beginners, this bootcamp will equip you with essential skills and a project to showcase in your portfolio.
 
