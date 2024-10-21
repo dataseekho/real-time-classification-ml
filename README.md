@@ -1,6 +1,6 @@
 ## 📊 DS Bootcamp 0.2: Logistic Regression Classification with Machine Learning
 
-Welcome to **Data Seekho Bootcamp 0.2**! In this 3-day event, you’ll learn how to build a real-time **weather pattern classification model** using **Python** and machine learning. Perfect for beginners, this bootcamp will equip you with essential skills and a project to showcase in your portfolio.
+Welcome to **Data Seekho Bootcamp 0.2**! In this 3-day event, you’ll learn how to build a **classification model** using **Python** and machine learning. Perfect for beginners, this bootcamp will equip you with essential skills and a project to showcase in your portfolio.
 
 ---
 
@@ -19,7 +19,7 @@ At **Data Seekho**, founded by Muhammad Usama Hameed, our mission is to empower 
 ---
 
 ## 🌟 Bootcamp Highlights:
-- **Hands-on Learning**: Build a real-world weather classification model.  
+- **Hands-on Learning**: Build a real-world classification model.  
 - **Skill Boost**: Strengthen your Python and machine learning skills.  
 - **Portfolio Project**: Complete a project you can showcase on your resume.  
 - **Career Ready**: Gain essential data science and machine learning knowledge.
